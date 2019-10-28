@@ -17,13 +17,11 @@
     "url": "https://github.com/nateonguitar/TSGameObjectEngineStressTest/issues"
   },
   "homepage": "https://github.com/nateonguitar/TSGameObjectEngineStressTest#readme",
-  "dependencies": {
-    "game-object-engine": "file:../TSGameObjectEngine"
-  },
   "devDependencies": {
     "ts-loader": "^6.2.1",
     "typescript": "^3.6.4",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.9",
+    "game-object-engine": "^1.0.5"
   }
 }
