@@ -1,1 +1,1 @@
-# TSGameObjectEngineExampleMario
+This is a stress test project for developing the game engine.
